@@ -122,6 +122,11 @@ The number of males who were part of the attrition are higher compared to the nu
 - People who studied life sciences were the highest employees who left the organization while people who studied human resource were the lowest.
 
 ## Recommendation
+- Exit interviews such as gathering feedback from departing employees  to identify patterns( like dissatisfaction with management, compensation or workload) should be conducted, this can help quantify common reasons for attrition. Changes such as improved work life balance policies and clearer career progression should be implemented based on recurring feedback.
+- Analyzing compensation and benefits for the younger age groups who had the highest number of employees who departed  is very crucial as the reason they left may be due to insufficient benefits perceived by them. This can be done by comparing salary structures with industry benchmarks. Salaries should be adjusted and competitive offers such as healthcare, wellness programs and retirement plans should be included.
+- Strengthen career development opportunities for employees who are not satisfied with their job role or educational field and would want to upskill, as the reasons they left may be due to perceived limited growth opportunity. Organization should invest in upskilling programs, mentorship and leadership training, and also offer a clear career progression path.
+
+
 
 
 
